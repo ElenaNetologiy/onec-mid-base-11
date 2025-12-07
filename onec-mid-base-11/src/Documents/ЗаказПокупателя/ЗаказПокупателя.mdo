@@ -197,7 +197,7 @@
     <name>net_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
-      <value>Net контактное лицо</value>
+      <value>Контактное лицо</value>
     </synonym>
     <type>
       <types>CatalogRef.net_КонтактныеЛица</types>
